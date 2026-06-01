@@ -1,6 +1,6 @@
 # 🍽️ Zomato Product Intelligence Platform
 
-> End-to-end NLP pipeline that turns 50,000+ customer reviews into ranked product recommendations — built as a PM + Data Science internship project.
+> End-to-end NLP pipeline that turns 50,000+ customer reviews into ranked product recommendations
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.35-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
@@ -8,7 +8,7 @@
 [![BERTopic](https://img.shields.io/badge/BERTopic-0.16-534AB7)](https://maartengr.github.io/BERTopic)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-**[🚀 Live Demo](https://your-username-zomato-intelligence.streamlit.app)** &nbsp;·&nbsp; [Report](docs/report.pdf) &nbsp;·&nbsp; [LinkedIn Post](#)
+**[🚀 Live Demo](https://om-dhomne-zomato-platform.streamlit.app/)** &nbsp;·&nbsp;
 
 ---
 
@@ -161,9 +161,8 @@ zomato-intelligence/
 
 ## About
 
-Built by **[Your Name]** · B.Tech 2nd year · IIT Madras  
-Internship project — 2025 season  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+Built by **[Your Name]** · CH24B017 · IIT Madras  
+[LinkedIn](https://linkedin.com/in/omdhomne) · [GitHub](https://github.com/Om-Dhomne)
 
 ---
 
